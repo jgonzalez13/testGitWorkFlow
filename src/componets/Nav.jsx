@@ -2,8 +2,8 @@ import React from 'react';
 
 const Nav = () => {
     return ( 
-        <div className="nav">
-            Aquí el navbar
+        <div style={{ background: 'green', width: '100%'}}>
+            Soy el Navbar
         </div>
      );
 }
